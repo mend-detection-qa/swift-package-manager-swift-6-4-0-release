@@ -1,0 +1,8 @@
+{
+  "scanSettings": {
+    "configMode": "AUTO",
+    "versioning": {
+      "swift": "6.4.0"
+    }
+  }
+}
